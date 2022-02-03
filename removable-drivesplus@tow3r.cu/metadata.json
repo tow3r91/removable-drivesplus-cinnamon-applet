@@ -1,0 +1,8 @@
+{
+ "uuid": "removable-drivesplus@tow3r.cu",
+ "name": "Removable drives Plus",
+ "description": "Access removable drives with some plus features",
+ "icon": "media-eject",
+ "max-instances": -1,
+ "author": "tow3r"
+}
